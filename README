@@ -1,0 +1,34 @@
+Roman Gabriele Ocampo
+5.31.2012
+Application for Zappos.Code()
+
+Greetings. This is a readme for the files contained within this repository.
+Each of these files are meant as a response to the application questions found
+at zcode.zappos.com. More specific information about the programs can be found
+in their respective source codes. Each were written in C++ and would just need
+to be pushed through a compiler in order to work.
+
+Question 2: Ninja Books
+This program's source code is found in Ninjabooks.cpp. When run, it asks
+the user for a number of books and the name of each book. It then outputs
+the data in alphabetical order sideways as if they were sitting on a bookshelf.
+
+Question 3: Dragon Zoo
+My response to this question can be found in Dragons.doc
+
+Question 4: Zappos.Code()
+My response to this question can be found in PersonalDescription.txt
+
+Question BONUS!
+This program's source code is found in Sudoku.cpp. In its present state, it
+has issues creating more difficult puzzles. When run, it should output a random
+and valid sudoku puzzle. Input any character to display the solution.
+
+Question BONUS (THE SEQUEL)!
+This program's source code is found in To-Do.cpp. When run, it asks the user to
+enter N to create a new file, or enter O to open an existing one. When creating a new
+file, the number of to-do list items is inputted, followed by each individual item.
+This to-do list is then saved in the same directory as the program with the appropriate
+filename. This file can be opened with this program by entering O at the prompt. When
+an existing file is opened, it is displayed to the screen and the user is given the
+options to add, delete, edit, or sort the items.
